@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/assets/data.bin" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/libs/UPPayAssistEx.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/libs/UPPayPluginExStd.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/data.bin" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/jniLibs/arm64-v8a/libentryexstd.so" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/jniLibs/armeabi-v7a/libentryexstd.so" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libentryexstd.so" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/jniLibs/mips/libentryexstd.so" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/jniLibs/x86/libentryexstd.so" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

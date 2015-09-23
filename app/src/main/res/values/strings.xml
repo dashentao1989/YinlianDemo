@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YinlianDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pay_success">支付成功！</string>
+    <string name="pay_fail">支付失败！</string>
+    <string name="pay_cancel">你已取消了本次订单的支付！</string>
+</resources>
